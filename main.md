@@ -196,7 +196,7 @@ All bonuses and penalties are applied *after* the multiplier from Burning someth
 ### Temporary Sources as Bonuses or Penalties
 Many ongoing effects can be represented as Temporary Sources, positive or negative. These can then apply as bonuses or penalties on your rolls!
 
-You can use an Action to place Temporary Sources on any one character; to do this, declare your roll as usual, as well as a name for the Temporary Source you're creating and who you're creating it for. You get to place two dots of that Temporary Source per success on your roll.
+You can use an Action to place Temporary Sources on one or more characters; to do this, declare your roll as usual, as well as a name for the Temporary Source you're creating and who you're creating it for. You get to place two dots of that Temporary Source per success on your roll. You may divide these dots as you wish, within reason.
 
 The GM is responsible for deciding which Temp Sources apply to any given roll. The only hard rule is that you cannot use a Temporary Source on a roll that's supposed to generate or remove that same Temporary Source--so, for instance, you can't make your opponent take 3 dots of Off Balance and then roll at a -3 from being Off Balance when they're trying to remove Off Balance. (This is especially important for Source Combat, where adding and removing Sources is the entire point!)
 
