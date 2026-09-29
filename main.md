@@ -138,11 +138,9 @@ Dice are rolled to:
 In other words, if there's no stakes, don't roll dice. The average person doesn't need to make a Driver roll to get to work; they roll Driver when someone cuts across 3 lanes of highway traffic in front of them, or shoots out one of their tires, or straight up tries to run them off the road.
 
 ## Basic Rolls
-A roll is described by two values in the format "Roll A against B", where A and B are Attributes. You must pick Attributes from different groups; the roll can be a Stat and a Skill, a Stat and a Source, or a Skill and a Source. For instance, you might roll Smooth against Driver to show off your sick drifting skills, or roll Clever against Money to see if you can dodge consequences for financial crimes, or roll Money against Talker to make yourself sound rich.
+A roll is described by two Attributes. You must pick Attributes from different groups; the roll can be a Stat and a Skill, a Stat and a Source, or a Skill and a Source. For instance, you might roll Smooth Driver to show off your sick drifting skills, or roll Clever Money to see if you can dodge consequences for financial crimes, or roll Money Talker to make yourself sound rich.
 
-What you are rolling forms the dice pool, and what you are rolling against determines the target number. Each die that is equal to or lower than the target number is a success. As an example, if you're rolling Smooth against Driver, and you have 3 Smooth and 5 Driver, you roll 3 dice, and count 5 or lower as a success.
-
-The player doing the rolling chooses the form the roll takes--if they want to roll Driver against Smooth, they're free to do so. Just make sure that everyone knows what you're rolling and what you're rolling against--and that the GM agrees that your action fits the stat, skill, and/or source you picked. (The GM can't object to the order you put the stats in, though; they can argue that Smooth and Driver doesn't apply to whatever you're doing, but they can't say that you *have* to use Smooth against Driver and not Driver against Smooth.)
+The higher of the two Attributes is how many dice you roll; the lower of the two Attributes is the Target Number. After the roll, each die that shows a value equal to or less than the Target Number is counted as one Success.
 
 ### An Example
 Dawnathan J. Breeze has stolen a motorcycle from a local gang of biker ninjas, and is currently being pursued by their deadliest shinobi. He wants to do a sick jump off an empty car-carrier in front of him to create more space between himself and the ninjas…
@@ -155,7 +153,7 @@ Dawnathan: "What if I throw my arms up and throw the horns with both hands while
 
 GM: "That works."
 
-Dawnathan: "Okay, I'm rolling my Smooth of 3 against my Driver of 5..." [rolls dice] "Oof, a 10, a 9, and a 2. But hey, one success!"
+Dawnathan: "Okay, I'm rolling my Smooth of 3 and my Driver of 5, so that's five dice at TN 3..." [rolls dice] "Seven, five, four, four...three. One success."
 
 GM: "We take those. You sail through the air and just barely land on an overpass. It's a rough landing, though, and the ninjas quickly figure out where you've gone. Take two Distance as a temp source."
 
@@ -180,11 +178,11 @@ Note that as long as you have hit points, you're still in the fight, even if you
 ### An Example
 Dawnathan's gained some Distance, but he can't afford to rest on his laurels. However, he gets a risky idea...
 
-Dawnathan: "I'm going to try and lose them by stopping in an alley. I'll be rolling Clever against Driver, and I want to burn the Distance I just got."
+Dawnathan: "I'm going to try and lose them by stopping in an alley. I'll be rolling Clever Driver, and I want to burn the Distance I just got."
 
 GM: "Okay. Bear in mind that if you mess this up, you're still gonna lose that Distance, and the ninjas might be able to drag you into close combat as a result."
 
-Dawnathan: "Yeah, but if this works, I'm golden. So, I have 3 Clever and 5 Driver--and because I burned that point of Distance, I get to roll six dice." *rolls dice* "9, 8, 8, 7...5 and 3, two successes."
+Dawnathan: "Yeah, but if this works, I'm golden. So, I have 3 Clever and 5 Driver--and because I burned that point of Distance, I add two dice, so that comes out to 7 dice at TN3." [rolls dice] "Two nines, two fives..2, 2, 1, three successes."
 
 GM: "Awesome. You drift around a corner, then keep drifting--bringing yourself in line with an alley just past the corner. You roll into it and cut your engine, quickly hopping off the bike and walking it behind a dumpster. Moments later, you hear the biker ninjas screaming past. You're in the clear, for now."
 
@@ -268,7 +266,7 @@ This is anything that involves literal physical harm--punching, shooting, slashi
 
 In a Direct Combat, you can use weapons, and attacks are directed at a target's HP and Armor Points, meaning you can take Wounds from this form of combat.
 
-GMs are advised to encourage creative actions by giving out Temporary Sources to represent tactical advantages or disadvantages--giving you dots of Cover to represent finding a good piece of cover, or dots of Position to represent gaining ground on an opponent in a chase, or dots of Smokescreen if you're hiding in a smoke cloud, and so on. Players should feel free to Burn or Stake these Temporary Sources when they don't want to risk their permanent Attributes.
+GMs are advised to encourage creative actions by giving out Temporary Sources to represent tactical advantages or disadvantages--giving you dots of Cover to represent finding a good piece of cover, or dots of Position to represent gaining ground on an opponent in a chase, or dots of Smokescreen if you're hiding in a smoke cloud, and so on. Players should feel free to Burn or Stake these Temporary Sources when they don't want to risk their permanent Attributes, and are encouraged to use their combat turn for setting themselves or their allies up for future turns as well as just taking swings at the enemy.
 
 #### Doing Damage
 When you attack, you turn the number of successes on your attack roll into damage to your target's HP or AP.
