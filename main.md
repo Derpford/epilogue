@@ -69,7 +69,9 @@ Supernatural healing or super-science can make this go faster. The GM may also d
 If you have a Wound, you can Burn it like a Source, Skill, or Stat (see Burning under Rolling Dice). However, Wounds don't go away when Burned--each time you Burn a Wound, you gain a new Wound instead, just like with other Negative Sources. Make it count.
 
 #### Temporary Sources
-The GM may tell you to take a Temporary Source--this acts like a Source, but goes away when there's a scene transition (or when the GM tells you it goes away--for example, "take 3 dots of Stability as a temporary source until you move from your sniper nest"). Temporary Sources represent momentary advantages, whether in combat or out of it. Burning a Temporary Source is much less costly than burning other things (see Rolling Dice).
+The GM may tell you to take a Temporary Source--this acts like a Source, but goes away when there's a scene transition (or when the GM tells you it goes away--for example, "take 3 dots of Stability as a temporary source until you move from your sniper nest").
+
+Temporary Sources represent momentary advantages, whether in combat or out of it. Burning a Temporary Source is much less costly than burning other things (see Rolling Dice). They are also *NOT* capped by your Depth. This means that, early on, you can gain a lot more dice through Temporary Sources than you'd otherwise have access to.
 
 Temporary Sources can also be Negative. Temporary Negative Sources behave just like regular Negative Sources, aside from eventually wearing off.
 
