@@ -53,7 +53,7 @@ A good way of marking a Source as negative is to put a dash in front of it, like
 > -Exhaustion
 
 #### Wounds
-Wounds are a special kind of Negative Source. You suffer -1 dice on all rolls per Wound you currently have. When you have three or more Wounds and run out of HP again, you are rendered unconscious--and depending on what took you out, you might be bleeding to death. The GM is expected to use their discretion about what kinds of damage are lethal.
+Wounds are a special kind of Negative Source. You suffer -1 dice on all rolls per Wound you currently have. When you have three or more Wounds and run out of HP again, you must make a roll of your choice with your Wounds as a dice penalty. If you succeed, add a Wound and continue as normal. If you fail this roll, you are rendered unconscious--and depending on what took you out, you might be bleeding to death. The GM is expected to use their discretion about what kinds of damage are lethal.
 
 Wounds are removed one at a time. The amount of time and medical attention it takes to remove one Wound depends on how many Wounds you currently have. Consult the following table:
 
@@ -371,6 +371,18 @@ Complex Items typically act like a Simple Item, but twice as effective as normal
 Items that are genuinely one-of-a-kind...have to be made to order, and that makes them Unique Items. You cannot roll to purchase a Unique Item; instead, you pay for its effects by burning one *or more* dots of Sources. Furthermore, you may take on some form of quest to pay for part of the Unique Item's effects, though you must still burn at least one dot of Sources.
 
 The effects of Unique Items are determined at time of creation. You don't have to literally be the one creating the Unique Item--you use the same process when finding a rare artifact through your Contacts as you do when buying the materials for a new invention with Money. These are the sort of thing that players take on as long-term goals.
+
+### Attributes On Unique Items
+The simplest form of Unique Item is one that has its own Attributes. You can use the Unique Item's Attributes in your rolls, Burn them to gain bonus dice, and so on, much like any Attribute on your character sheet. However, increasing the Attributes of a Unique Item requires going through the same process you went through to get it.
+
+The cost of adding Attributes to a Unique Item is one dot of payment for every 2 dots of attributes on the item.
+
+### Special Effects On Unique Items
+This is trickier. You'll have to work with the GM to get an idea of how powerful the effect is, and how much it should cost. Some guidelines:
+- A dot of Temporary Source, or one bonus die, added *without* taking up your action, should cost one dot of Source.
+- *Spending an action* to gain Temporary Source or bonus dice should net you two bonus dice/Temp Source per one dot of Source.
+- Doing something reliably or without risk should only be possible if you get specific with it (i.e., "Open Any Door" is too much, "Open Electronic Locks" is acceptable). This should also cost at least two dots of Sources--more if the effect is especially powerful.
+- Each Quest you take on to make the item should give you a one-dot discount, down to a minimum of one.
 
 ## Weapons, Armor, and Other Equipment
 Some stuff has combat applications, obviously. Broadly, most things that can be used for combat can be divided into Weapons and Armor.
