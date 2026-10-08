@@ -53,7 +53,7 @@ A good way of marking a Source as negative is to put a dash in front of it, like
 > -Exhaustion
 
 #### Wounds
-Wounds are a special kind of Negative Source. You suffer -1 dice on all rolls per Wound you currently have. When you have three or more Wounds and run out of HP again, you are rendered unconscious--and depending on what took you out, you might be bleeding to death. The GM is expected to use their discretion about what kinds of damage are lethal.
+Wounds are a special kind of Negative Source. You suffer -1 dice on all rolls per Wound you currently have. When you have three or more Wounds and run out of HP again, you must make a roll of your choice with your Wounds as a dice penalty. If you succeed, add a Wound and continue as normal. If you fail this roll, you are rendered unconscious--and depending on what took you out, you might be bleeding to death. The GM is expected to use their discretion about what kinds of damage are lethal.
 
 Wounds are removed one at a time. The amount of time and medical attention it takes to remove one Wound depends on how many Wounds you currently have. Consult the following table:
 
