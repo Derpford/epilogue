@@ -1,6 +1,6 @@
 # Epilogue
 
-A game to surpass Storyteller
+A game to surpass Storyteller. Check [main.md](https://github.com/Derpford/epilogue/blob/main/main.md) for the main rules and the [hats](https://github.com/Derpford/epilogue/tree/main/hats) directory for Hats your character can wear.
 
 # Quickstart Rules
 
