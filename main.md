@@ -231,19 +231,19 @@ Later, Dawnathan corners one of the Biker Ninjas to interrogate him about the lo
 
 GM: "The ninja's hand whips out to the side, loosing three kunai in your direction!"
 
-Dawnathan: "I'm going to take my first action this round to dodge, using Speedy against Shooter."
+Dawnathan: "I'll take a Reaction to Block, using Speedy against Shooter."
 
 GM: "Roll it."
 
-Dawnathan: "5 Speedy against 6 Shooter." *rolls* "Three successes."
+Dawnathan: "5 Speedy against 6 Shooter." [rolls] "Three successes."
 
 GM: "That's a -3 dice penalty on the ninja's attack. He only has 4 dice to work with--" [rolls] "But he gets a success on his one die, so you take two base damage plus 2 added damage, for a total of 4 damage from a kunai nicking your cheek."
 
-Dawnathan: "After reaching up to wipe the blood away, I take a Combo Action to quickdraw my revolver and put a bullet through his kneecap. That's...Speedy against Shooter, and I take a -1 dice penalty because it's a Combo Action, right?"
+Dawnathan: "After reaching up to wipe the blood away, I take a Combo Action to quickdraw my revolver, line up a shot, and put a bullet through his kneecap. That's...Speedy against Shooter both times, and I take a -1 dice penalty on the shot because it's a Combo Action, right?"
 
 GM: "Because it's your first Combo Action, yes. Roll it."
 
-Dawnathan: "Four dice, then." *rolls* "Two successes! My revolver does 5 base damage plus two per success, so that comes out to 9."
+Dawnathan: [rolls] "No successes on the first roll. Four dice, then." [rolls] "Two successes! My revolver does 5 base damage plus two per success, so that comes out to 9."
 
 GM: "The ninja howls in pain and clutches his ruined knee, but a true ninja never surrenders..."
 
@@ -271,7 +271,7 @@ GMs are advised to encourage creative actions by giving out Temporary Sources to
 #### Doing Damage
 When you attack, you turn the number of successes on your attack roll into damage to your target's HP or AP.
 
-By default, you do 1 damage per Success, as long as you have at least 1 Success (after applying Block and Redirect, of course).
+By default, your fists have Base Damage 0, Added Damage 1--meaning you do 1 damage per Success, as long as you have at least 1 Success (after applying Block and Redirect, of course).
 
 Remember that Damage 'rolls over' when you deplete a target's HP and apply a Wound to them.
 
@@ -386,20 +386,21 @@ This is trickier. You'll have to work with the GM to get an idea of how powerful
 Some stuff has combat applications, obviously. Broadly, most things that can be used for combat can be divided into Weapons and Armor.
 
 ### Weapons
+Weapons define their damage in terms of Base Damage and Added Damage. Base damage is added once per attack roll, and Added Damage is added once for each success on the roll--meaning that the minimum damage you do with an attack is Base plus 1x Added, since you need at least one success to hit.
+
 Some weapons may say that they do something "On Hit". This means that they do something *when they successfully do damage to a target*. On Hit effects apply once per attack, per target hit.
 
 While you can only use one Weapon on each attack action, the amount of weapons you can *carry* is subject to GM discretion, since the exact details will vary depending on what kinds of weapons you have and the tone of the campaign. Everyone knows action movie heroes never run out of pocket space, but you might not be an action movie hero...
 
 Weapons can have a number of other keywords attached to them as well. Some of these include:
 - Spread X -- You can attack up to X targets with one roll. Effects that reduce dice on this roll, such as enemy Block reactions, affect the whole roll--meaning that one guy Blocking will reduce the effect of the roll against *everyone* you target.
-- Steady X -- If you hit, this weapon does X damage, even if you roll fewer than X successes.
-- Precise X -- Each success does X damage to the target instead of 1 damage.
+- Steady X -- If you hit, this weapon does damage as if you got X successes, even if you got less than that.
 - Shatter -- This weapon removes twice as much AP as it normally would.
 - Meatgrinder -- This weapon removes twice as much HP as it normally would.
 - Single Fire -- This weapon may only be used once per turn regardless of how many Combo Actions you take.
 - Ranged -- This weapon can hit things that aren't within your reach.
 - Reloading X -- After taking X attacks with this weapon without reloading, you have to reload it with a dice roll.
-- Prepared -- You can take an action to Prepare this weapon. Roll as you would for an attack; if the roll succeeds, successes get added to your next attack roll's successes. If the roll fails, you lose all Prepare bonuses. You can keep doing this indefinitely, so long as you keep succeeding on the roll...
+- Prepared -- You can take an action to Prepare this weapon. Roll as you would for an attack; if the roll succeeds, successes get added *directly* to your next attack roll's successes. If the roll fails, you lose all Prepare bonuses. You can keep doing this indefinitely, so long as you keep succeeding on the roll...
 
 ### Armor
 Armor grants Armor Points, which act as an extra 'health bar' that doesn't give you a Wound when it runs out, but also doesn't refresh when you're Wounded.
