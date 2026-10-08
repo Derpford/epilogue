@@ -7,12 +7,14 @@ A Homebrew To Surpass Storyteller
 
 Depth can be thought of as your character's power level. It functions as a cap on your Attributes; you cannot increase your Attributes past your current Depth. Depth can be improved by growing as a character, usually through some sort of dramatic shift in their worldview or by bettering one's understanding of oneself. You need to achieve a Goal, first (see Progression).
 
-Your GM will tell you what your character's Depth should be at the start of the campaign.
+Your GM will tell you what your character's Depth should be at the start of the campaign. The recommended default is 5 for reasonably skilled main characters who have been doing their thing for a while already.
 
 ## Attributes
 Attributes are numbers that can be used in rolls.
 
-Attributes are rated from one to ten (assuming baseline human capabilities), with 1 being minimal effectiveness and 10 being peak performance. If you have not put any points into a stat, it starts at 1. If a stat is reduced to zero, you can't roll it until you raise it to 1 again.
+Attributes are rated from one to ten (assuming baseline human capabilities), with 1 being minimal effectiveness and 10 being peak performance. If you have not put any points into an Attribute, it starts at 0. It costs 5 XP to go from zero to one, then 3 XP after that to keep raising that Attribute.
+
+At character creation, you get a certain number of Attribute Points that can be spent 1-to-1 to gain dots in Attributes. 25 is a good default amount of Attribute Points to start with.
 
 ### Stats
 Your character has a set of six Stats:
@@ -37,14 +39,10 @@ Skills are defined by a noun-verb--you can think of them like job titles. A Skil
 
 You can make up new Skills with GM approval. (Not every GM appreciates the idea of adding an "Intergalactic Warrior" to their campaign.)
 
-Skills are rated from one to ten, just like stats.
-
 ### Sources
 Sources represent things that are outside of you--stats are your innate tendencies, skills are your training, sources are your...well, resources. 
 
 A Source can be a literal object or objects (like Money), a place you have control over (like a Nightclub), or a connection you can call on (like an Informant). They can also be abstract things that come and go, like Willpower.
-
-Sources are rated from one to ten as well.
 
 #### Negative Sources
 Sometimes a Source represents something you *don't* want. These are called Negative Sources. You can still use them in rolls where the GM allows it. They cannot be Burned like normal--instead, Burning a Negative Source on a roll *adds* another dot to the Negative Source, capping at ten.
