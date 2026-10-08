@@ -36,6 +36,7 @@ A table with a list of some common weapons follows:
 A table with a list of some common armors follows:
 
 | Item                         | Armor Points | Notes                                                                            |
+|------------------------------|--------------|----------------------------------------------------------------------------------|
 | Soft Bulletproof Vest        | 10 AP        | Halves damage from handguns and SMGs                                             |
 | Hardened Bulletproof Vest    | 20 AP        | Halves damage from rifles                                                        |
 | Ordnance Disposal Suit       | 80 AP        | Bulky and awkward; -3 dice penalty on rolls for moving quickly or dodging things |
