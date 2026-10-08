@@ -4,7 +4,7 @@ A game to surpass Storyteller. Check [main.md](https://github.com/Derpford/epilo
 
 # Quickstart Rules
 
-1. Your character has three kinds of Attributes: Stats (adjectives, what you are), Skills (job titles, what you do), and Sources (nouns, things you have). The standard start has them at Depth 5. HP is equal to 5+Depth.
+1. Your character has three kinds of Attributes: Stats (adjectives, what you are), Skills (job titles, what you do), and Sources (nouns, things you have). The standard start has a Depth of 5. HP is equal to 5+Depth.
 2. The standard start gives you 25 dots to invest in Attributes. You cannot have an Attribute higher than your Depth.
 3. You can optionally add Hats to your character--these give you access to special rules in exchange for various risks and downsides. You need to fulfill the requirements and check with the GM to have your character wear a Hat; the GM is always allowed to say that a given Hat is inappropriate for this campaign (no, you can't be a computer hacker in the Wild West, unless your GM decides that cowboys with computers is cool).
 4. To do something, describe what you're doing, then pick two Attributes from different categories--a Stat and a Skill, a Skill and a Source, a Source and a Stat, and so on. The higher of the two is how many dice you roll and the lower of the two is the success rating; each die that shows equal to or under the success rating is one success.
